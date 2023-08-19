@@ -3,5 +3,7 @@
 ![](https://raw.githubusercontent.com/nao710/nao710/main/profile-summary-card-output/tokyonight/3-stats.svg)
 ![](https://raw.githubusercontent.com/nao710/nao710/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nao710&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nao710&layout=compact&theme=tokyonight)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nao710&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nao710&theme=tokyonight&show_icons=ture" />
+</p>
