@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/nao710/nao710/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 
 <p align="left"> 
